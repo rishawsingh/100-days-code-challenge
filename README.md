@@ -11,3 +11,7 @@
 ## Day 2
 - Union-of-two-arrays.py
 - Cyclically rotate an array by one.py
+- Kadane's Algorithm.cpp
+- Minimize the Heights II.cpp 
+- Minimum number of jumps.cpp 
+- Find the Duplicate Number
