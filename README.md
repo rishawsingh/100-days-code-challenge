@@ -10,3 +10,4 @@
 
 ## Day 2
 - Union-of-two-arrays.py
+- Cyclically rotate an array by one.py
