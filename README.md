@@ -15,3 +15,11 @@
 - Minimize the Heights II.cpp 
 - Minimum number of jumps.cpp 
 - Find the Duplicate Number
+
+## Day 3
+- Merge-without-extra-space.cpp
+- Kadane's Algo
+- Merge Interval
+- Next Permutation
+- Count Inversion
+- Best time to buy and sell stock
